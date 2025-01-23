@@ -1,0 +1,24 @@
+{
+    "error":false,
+    "message": "Berhasil Ambil Data",
+    "posts":[
+      {
+        "id":1,
+        "sumberGambar":"https://images.unsplash.com/photo-1721332150382-d4114ee27eff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMXx8fGVufDB8fHx8fA%3D%3D",
+        "judul":"Workbench",
+        "keterangan":"A Tool for Greatness"
+      },
+      {
+        "id":2,
+        "sumberGambar":"https://images.unsplash.com/photo-1723740020886-1fb3f1805a16?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "judul":"Workbenc",
+        "keterangan":"A Tool for Greatness"
+      },
+      {
+        "id":3,
+        "sumberGambar":"https://images.unsplash.com/photo-1736192252876-e086cd9fa39b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "judul":"Workbench",
+        "keterangan":"A Tool for Greatness"
+      }
+    ]
+  }
