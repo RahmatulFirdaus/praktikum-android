@@ -24,9 +24,6 @@ export default function FinanceScreen() {
         <Text style={styles.subtitle}>
           Stay tuned. We're working hard to bring you the best financial services.
         </Text>
-        <TouchableOpacity style={styles.notifyButton}>
-          <Text style={styles.notifyButtonText}>Notify Me</Text>
-        </TouchableOpacity>
       </View>
     </LinearGradient>
   );
