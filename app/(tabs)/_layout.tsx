@@ -1,13 +1,12 @@
 import { Tabs } from "expo-router";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
 import MaterialIcons from "@expo/vector-icons/MaterialIcons";
-import { View, Text } from "react-native";
 
 export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
-        headerShadowVisible: false,
+        headerShown: false,
         tabBarShowLabel: true,
         tabBarStyle: { height: 60 },
         tabBarLabelStyle: { fontSize: 12, marginBottom: 5 },
